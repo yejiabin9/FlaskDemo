@@ -1,40 +1,4 @@
-No command 'vitualenv' found, did you mean:
- Command 'virtualenv' from package 'python-virtualenv' (universe)
-vitualenv: command not found
-
-# MyFlask
-
-#### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
-
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+本项目是基于flask搭建的web app
+由于之前弄深度学习，生成模型后想要给别人一可视化的方式演示模型的效果
+因此基于Python搭建了一个webAPP
+特此和大家分享
